@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    max-width: 1920px;
+    max-height: 500px;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(2,2,2);
+    }
+
+
+    .picture1{
+    font-size: 15px;
+    line-height: 1.0;
+    background:url(winter1.jpg);
+    background-size: cover;
+    -webkit-background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    -webkit-background-clip:text;
+    background-attachment: fixed;
+    -webkit-text-fill-color:rgba(255,255,255,0);
+    text-align: justify;
+    }
+
+    
